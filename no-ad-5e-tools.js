@@ -1,7 +1,9 @@
 // Define an array of class names to be removed
 var classesToRemove = [
     ".cancer__wrp-leaderboard.cancer__anchor",
-    ".w-100.no-shrink"
+    ".w-100.no-shrink",
+	".cancer__wrp-sidebar-rhs.cancer__wrp-sidebar-rhs--scrolling-page.cancer__anchor",
+	".cancer__wrp-sidebar-rhs.cancer__anchor"
     // Add more class names here as needed
 ];
 

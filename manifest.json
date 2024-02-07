@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
   "name": "Adless 5eTools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Gahtao",
 
-  "description": "Removes add nodes from 5e.tools.",
+  "description": "Removes ad nodes from 5e.tools.",
 
   "icons": {
     "48": "icons/icon-48.png",
